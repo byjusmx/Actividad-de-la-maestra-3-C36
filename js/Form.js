@@ -5,7 +5,7 @@ class Form {
 
   display(){
     var title = createElement('h2')
-    title.html("Car Racing Game");
+    title.html("Juego de carreras de autos");
     title.position(130, 0);
     
     var input = createInput("Name");
